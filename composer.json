@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "laravel/Laravel-with-svelte-and-innertia",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Laravel 10 with svelte and innertia",
+    "keywords": ["framework", "laravel", "sail", "svelte", "innertia", "docker"],
     "license": "MIT",
     "require": {
         "php": "^8.1",

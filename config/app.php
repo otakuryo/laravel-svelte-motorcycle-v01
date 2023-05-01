@@ -18,6 +18,8 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'max_motorcycles' => env('MAX_MOTORCYCLES', 8),
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
